@@ -20,5 +20,14 @@ DigitalMenu
     You should have received a copy of the GNU General Public License
     along with DigitalManu.  If not, see <http://www.gnu.org/licenses/>.
 
- This program is an digital menu for customers orders on  the restaurang. It then send the information to the server than then disptute it to the Chefs then can se teir order on the diplay. After they preperd it they press the finisched button and then it dispalys on the weitress pickupp tabel that it's reddy for pickupp. After  that they served the food and press done itsa then   tranferd to the cacheir that then get it upp on their display and can then press ok after its payed. then first ist it considerd compleet and put to the log. This program will consist of an server and 4 diffrent clients. 1 client for the custumers to order and  1 client for the chefs and 1 for the cacheir and 1 for the witresses.
+ This program is an digital menu for customers orders on  the restaurang.
+ It then send the information to the server than then disptute it to the 
+ Chefs then can se teir order on the diplay. After they preperd it they 
+ press the finisched button and then it dispalys on the weitress pickupp 
+ tabel that it's reddy for pickupp. After  that they served the food and 
+ press done itsa then   tranferd to the cacheir that then get it upp on 
+ their display and can then press ok after its payed. then first ist it 
+ considerd compleet and put to the log. This program will consist of an 
+ server and 4 diffrent clients. 1 client for the custumers to order and 
+ 1 client for the chefs and 1 for the cacheir and 1 for the witresses.
 
